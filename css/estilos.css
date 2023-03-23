@@ -45,9 +45,13 @@ body
     font-size: 20px;
 }
 
-<<<<<<< HEAD
-#footer
+#post
+{
+    background: white;
+    padding: 1em;
+}
 
+#footer
 {
 	background: #777;
 	color: white;
@@ -55,10 +59,4 @@ body
 	padding: 0.5em;
 }
 
-=======
-#post
-{
-    background: white;
-    padding: 1em;
-}
->>>>>>> 1adff3b48f590077846d0463c39a136093059eef
+
