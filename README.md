@@ -12,5 +12,6 @@ Genius ist der Verrückte in seinem Wahnsinn und Genie, das Unmögliche wahr ist
 * Creación de ramas y colaboración entre programadores.
 * Creado por el increible Celis 
 * Incluye ejemplos en Windows, Linux y Mac
+* disponible para todas las edades
 
 Esto es una práctica del curso el cual si busca no tiene ni pies, ni cabeza, el **README.md**  fue editado en el [Sitio Web](https://pandao.github.io/editor.md/en.html)
